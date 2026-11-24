@@ -37,5 +37,8 @@ export default defineConfig({
   ],
   test: {
     environment: 'node',
+    // Tests run in IST (UTC+5:30) so the "00:30 local" case really differs from the UTC date. Set here, not in
+    // the test file: imports are hoisted, so dates.ts would build its Intl formatters before an in-file assignment.
+    env: { TZ: 'Asia/Kolkata' },
   },
 });

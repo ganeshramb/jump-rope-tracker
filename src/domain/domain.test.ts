@@ -1,5 +1,4 @@
-// Run in India Standard Time (UTC+5:30) so the "00:30 local" case really differs from the UTC date.
-process.env.TZ = 'Asia/Kolkata';
+// Runs in India Standard Time (UTC+5:30): see `test.env.TZ` in vite.config.ts.
 
 import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';

@@ -1,0 +1,357 @@
+{
+  "id": "seed-2026-11-24",
+  "name": "Nov 24 to Dec 31",
+  "startDate": "2026-11-24",
+  "days": [
+    {
+      "date": "2026-11-24",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 30
+      },
+      "note": "Lock in the time slot"
+    },
+    {
+      "date": "2026-11-25",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 30
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 30
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 30
+      },
+      "thick": {
+        "sets": 2,
+        "reps": 10
+      },
+      "note": "First taste of thick rope. If easy → Wk 2 thick at 3×20"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "walk"
+    },
+    {
+      "date": "2026-11-29",
+      "type": "rest"
+    },
+    {
+      "date": "2026-11-30",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 40
+      }
+    },
+    {
+      "date": "2026-12-01",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 40
+      },
+      "thick": {
+        "sets": 3,
+        "reps": 15
+      },
+      "note": "3×20 if Friday felt easy",
+      "altThick": {
+        "sets": 3,
+        "reps": 20
+      }
+    },
+    {
+      "date": "2026-12-02",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 40
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 40
+      },
+      "thick": {
+        "sets": 3,
+        "reps": 15
+      }
+    },
+    {
+      "date": "2026-12-04",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 40
+      }
+    },
+    {
+      "date": "2026-12-05",
+      "type": "walk"
+    },
+    {
+      "date": "2026-12-06",
+      "type": "rest"
+    },
+    {
+      "date": "2026-12-07",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 4,
+        "reps": 20
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 50
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 4,
+        "reps": 20
+      }
+    },
+    {
+      "date": "2026-12-10",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 50
+      }
+    },
+    {
+      "date": "2026-12-11",
+      "type": "rope",
+      "light": {
+        "sets": 6,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 4,
+        "reps": 20
+      }
+    },
+    {
+      "date": "2026-12-12",
+      "type": "walk"
+    },
+    {
+      "date": "2026-12-13",
+      "type": "rest"
+    },
+    {
+      "date": "2026-12-14",
+      "type": "rope",
+      "light": {
+        "sets": 4,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 20
+      },
+      "note": "Thick rope is the main work now"
+    },
+    {
+      "date": "2026-12-15",
+      "type": "rope",
+      "light": {
+        "sets": 4,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 20
+      }
+    },
+    {
+      "date": "2026-12-16",
+      "type": "rope",
+      "light": {
+        "sets": 4,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 20
+      }
+    },
+    {
+      "date": "2026-12-17",
+      "type": "rope",
+      "light": {
+        "sets": 4,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 25
+      }
+    },
+    {
+      "date": "2026-12-18",
+      "type": "rope",
+      "light": {
+        "sets": 4,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 25
+      }
+    },
+    {
+      "date": "2026-12-19",
+      "type": "walk"
+    },
+    {
+      "date": "2026-12-20",
+      "type": "rest"
+    },
+    {
+      "date": "2026-12-21",
+      "type": "rope",
+      "light": {
+        "sets": 3,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 25
+      },
+      "note": "Holiday week: 3 sessions counts as a win"
+    },
+    {
+      "date": "2026-12-22",
+      "type": "rope",
+      "light": {
+        "sets": 3,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 25
+      }
+    },
+    {
+      "date": "2026-12-23",
+      "type": "rope",
+      "light": {
+        "sets": 3,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 25
+      }
+    },
+    {
+      "date": "2026-12-24",
+      "type": "rope",
+      "light": {
+        "sets": 3,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 30
+      },
+      "note": "First try at 6×30"
+    },
+    {
+      "date": "2026-12-25",
+      "type": "optional",
+      "light": {
+        "sets": 3,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 25
+      },
+      "note": "Christmas. Skipping is fine"
+    },
+    {
+      "date": "2026-12-26",
+      "type": "walk"
+    },
+    {
+      "date": "2026-12-27",
+      "type": "rest"
+    },
+    {
+      "date": "2026-12-28",
+      "type": "rope",
+      "light": {
+        "sets": 3,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 25
+      }
+    },
+    {
+      "date": "2026-12-29",
+      "type": "rope",
+      "light": {
+        "sets": 3,
+        "reps": 50
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 25
+      }
+    },
+    {
+      "date": "2026-12-30",
+      "type": "rest",
+      "note": "Rest before the test"
+    },
+    {
+      "date": "2026-12-31",
+      "type": "test",
+      "light": {
+        "sets": 2,
+        "reps": 30,
+        "label": "warm-up"
+      },
+      "thick": {
+        "sets": 6,
+        "reps": 30
+      },
+      "note": "TEST DAY. Stretch goal: 6×50"
+    }
+  ]
+}
